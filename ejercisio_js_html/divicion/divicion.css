@@ -1,0 +1,16 @@
+.todo {
+    border: 2px solid rgb(15, 15, 15);
+    border-radius: 40px;
+    color: rgb(2, 2, 2);
+    padding: 60px 68px 40px;
+    min-height: 700px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around; 
+    flex-direction: column;
+    background: rgb(30,29,38);
+    background: radial-gradient(circle, rgba(30,29,38,1) 10%, rgba(20,45,7,1) 100%);
+    contain:content;
+    margin-left: 40%;
+    font-family: 'Libre Baskerville', serif;
+    }

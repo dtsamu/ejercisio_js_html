@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+.todo {
+border: 2px solid rgb(15, 15, 15);
+border-radius: 40px;
+color: rgb(2, 2, 2);
+padding: 60px 68px 40px;
+min-height: 700px;
+width: 300px;
+display: flex;
+justify-content: space-around; 
+flex-direction: column;
+background: linear-gradient(#c02424, #190e35);
+contain:content;
+margin-left: 40%;
+font-family: 'Libre Baskerville', serif;
+}

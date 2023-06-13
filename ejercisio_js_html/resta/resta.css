@@ -1,0 +1,16 @@
+.todo {
+    background: rgb(55,23,226);
+    background: radial-gradient(circle, rgba(55,23,226,1) 10%, rgba(178,233,148,1) 100%);
+    border-radius: 40px;
+    padding: 60px 68px 40px;
+    min-height: 700px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around; 
+    flex-direction: column;
+    background: rgb(55,23,226);
+background: radial-gradient(circle, rgba(55,23,226,1) 10%, rgba(178,233,148,1) 100%);
+    contain:content;
+    margin-left: 40%;
+    font-family: 'Libre Baskerville', serif;
+    }
